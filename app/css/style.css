@@ -1,0 +1,15 @@
+.main{
+  border: solid;
+  overflow: hidden; position: relative;
+}
+.main-table{
+  border: solid;
+  position: relative;
+  width: 85%;
+  float: right;
+}
+.side{
+  border: solid;
+  width: 15%;
+  position: relative;
+}
